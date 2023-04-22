@@ -1,0 +1,15 @@
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/obj/Debug/net6.0/Задача 8.csproj.AssemblyReference.cache
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/obj/Debug/net6.0/Задача 8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/obj/Debug/net6.0/Задача 8.AssemblyInfoInputs.cache
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/obj/Debug/net6.0/Задача 8.AssemblyInfo.cs
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/obj/Debug/net6.0/Задача 8.csproj.CoreCompileInputs.cache
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/bin/Debug/net6.0/Задача 8
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/bin/Debug/net6.0/Задача 8.deps.json
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/bin/Debug/net6.0/Задача 8.runtimeconfig.json
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/bin/Debug/net6.0/Задача 8.dll
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/bin/Debug/net6.0/Задача 8.pdb
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/obj/Debug/net6.0/Задача 8.dll
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/obj/Debug/net6.0/refint/Задача 8.dll
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/obj/Debug/net6.0/Задача 8.pdb
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/obj/Debug/net6.0/Задача 8.genruntimeconfig.cache
+/Users/anastasiaten/Desktop/обучение Вова/HomeWork C#/Задача 8/obj/Debug/net6.0/ref/Задача 8.dll
